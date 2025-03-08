@@ -172,3 +172,7 @@ cython_debug/
 
 notebooks/.DS_Store
 .DS_Store
+
+chromedriver
+
+final_project/**/*.csv
